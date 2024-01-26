@@ -15,5 +15,5 @@ answer prompts
 
 #Credits
 I utilized xpert ai tool
-I had access to instructor created jest test files
+I had access to instructor created test files
 I utilized stack overflow
