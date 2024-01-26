@@ -63,6 +63,6 @@ function writeSVGToFile(svgData, fileName) {
     });
   }
   prompt();
-  writeSVGToFile();
+
 
 
