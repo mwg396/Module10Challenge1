@@ -1,0 +1,28 @@
+{
+  "name": "module10challenge",
+  "version": "1.0.0",
+  "description": "Create a node function to create a svg logo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwg396/Module10Challenge.git"
+  },
+  "keywords": [
+    "svg",
+    "node",
+    "git"
+  ],
+  "author": "Michael Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwg396/Module10Challenge/issues"
+  },
+  "homepage": "https://github.com/mwg396/Module10Challenge#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "node": "^21.6.1"
+  }
+}
